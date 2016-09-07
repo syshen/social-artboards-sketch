@@ -4,12 +4,12 @@
 <array>
   <dict>
     <key>name</key>
-    <string>Social</string>
+    <string>Facebook</string>
     <key>presets</key>
     <array>
       <dict>
         <key>name</key>
-        <string>Facebook Cover (Desktop)</string>
+        <string>Cover (Desktop)</string>
         <key>width</key>
         <integer>828</integer>
         <key>height</key>
@@ -17,20 +17,147 @@
       </dict>
       <dict>
         <key>name</key>
-        <string>Facebook Cover (Mobile)</string>
+        <string>Cover (Mobile)</string>
         <key>width</key>
-        <integer>640</integer>
+        <integer>536</integer>
         <key>height</key>
-        <integer>360</integer>
+        <integer>315</integer>
       </dict>
       <dict>
         <key>name</key>
-        <string>Facebook Profile</string>
+        <string>Profile</string>
         <key>width</key>
-        <integer>180</integer>
+        <integer>160</integer>
         <key>height</key>
-        <integer>180</integer>
+        <integer>160</integer>
       </dict>
+      <dict>
+        <key>name</key>
+        <string>Clicks to Website</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>628</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Website Conversions</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>628</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Page Post Engagement</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>900</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Page Likes</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>444</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>App Installs</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>628</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>App Engagement</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>628</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Local Awareness</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>628</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Event Responses</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>444</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Offer Claims</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>628</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Video Views</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>675</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Lead Generation</string>
+        <key>width</key>
+        <integer>1200</integer>
+        <key>height</key>
+        <integer>628</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Carousel</string>
+        <key>width</key>
+        <integer>600</integer>
+        <key>height</key>
+        <integer>600</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Instagram (Landscape)</string>
+        <key>width</key>
+        <integer>600</integer>
+        <key>height</key>
+        <integer>315</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Instagram (Square)</string>
+        <key>width</key>
+        <integer>600</integer>
+        <key>height</key>
+        <integer>600</integer>
+      </dict>
+      <dict>
+        <key>name</key>
+        <string>Instagram (Maximum)</string>
+        <key>width</key>
+        <integer>1936</integer>
+        <key>height</key>
+        <integer>1936</integer>
+      </dict>
+    </array>
+  </dict>
+  <dict>
+    <key>name</key>
+    <string>Social</string>
+    <key>presets</key>
+    <array>
       <dict>
         <key>name</key>
         <string>Twitter Header</string>

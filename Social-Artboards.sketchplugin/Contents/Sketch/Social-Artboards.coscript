@@ -63,7 +63,7 @@ function installArtboards(context) {
   pluginParentPath = [pluginParentPath stringByDeletingLastPathComponent]
   pluginParentPath = [pluginParentPath stringByDeletingLastPathComponent]
   pluginParentPath = [pluginParentPath stringByDeletingLastPathComponent]
-  pluginParentPath = [pluginParentPath stringByDeletingLastPathComponent]
+//  pluginParentPath = [pluginParentPath stringByDeletingLastPathComponent]
   var artboardsPlistPath = [pluginParentPath  stringByAppendingString:"/artboards.plist"]
 
   if ([fileManager fileExistsAtPath:artboardsPlistPath]) {
